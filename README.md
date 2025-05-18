@@ -1,4 +1,4 @@
-## Hey! Nice to see you.👋 I'm Xu Yusong!!!
+## Hey! Nice to see you.👋 I'm Coco!!! 
 > The best way to reach out to me is by email: a1750859115@outlook.com
 ---
 ### 👨🏻‍💻  About Me
@@ -18,7 +18,7 @@
 
 - **blog** - some notes & more about me 
   - [XuYusong's BLOG](https://blog.xuyusong.xyz/)
-  - [XuYusong's CSDN](https://blog.csdn.net/2201_75299492)(**Follower 3800+**)
+  - [XuYusong's CSDN](https://blog.csdn.net/2201_75299492)(**3.8k+ Followers**)
 
 - FOSS - Try hard Doing 💪
 
