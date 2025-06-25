@@ -18,15 +18,9 @@
 
 - **blog** - some notes & more about me 
   - [XuYusong's BLOG](https://blog.xuyusong.xyz/)
-  - [XuYusong's CSDN](https://blog.csdn.net/2201_75299492)(**3.8k+ Followers**)
+  - [XuYusong's CSDN](https://blog.csdn.net/2201_75299492)(**4.5k+ Followers**)
 
 - FOSS - Try hard Doing 💪
-
-
-<div align="center">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cocobond&theme=tokyonight&show_icons=true" height="170px">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cocobond&layout=compact&theme=tokyonight" height="170px">
-</div>
 
 
 <picture>
