@@ -17,7 +17,7 @@
 - **EasyProxy** - NAT e2e.
 
 - **blog** - some notes & more about me 
-  - [XuYusong's BLOG](https://blog.xuyusong.xyz/)
+  - [XuYusong's Personal Site](https://xuyusong.xyz/)
   - [XuYusong's CSDN](https://blog.csdn.net/2201_75299492)(**4.5k+ Followers**)
 
 - FOSS - Try hard Doing 💪
