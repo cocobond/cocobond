@@ -6,9 +6,9 @@
 **Computer science College junior student.**
 --- 
 #### 📑 Internship
-- <div align="left"><img align="center" src="https://avatars.githubusercontent.com/u/102591873" height="85px" width="85px" /> SelectDB - From 2025.04 to 2025.07 
-- <div align="left"><img align="center" src="static/baidu-logo-Photoroom.png" height="20px" /> Baidu  ---ACG  From 2024.10 to 2025.03
-- <div align="left"><img align="center" src="static/yonyou-logo-Photoroom.png" height="20px" /> YonYou  ---South China Development Group  From 2024.08 to 2024.10
+- <div align="left"><img align="center" src="https://avatars.githubusercontent.com/u/102591873" height="25px" width="25px" /> SelectDB - From 2025.04 to 2025.07 
+- <div align="left"><img align="center" src="static/baidu-logo-Photoroom.png" height="40px" width="40px" /> Baidu  ---ACG  From 2024.10 to 2025.03
+- <div align="left"><img align="center" src="static/yonyou-logo-Photoroom.png" height="35px" width="35px" /> YonYou  ---South China Development Group  From 2024.08 to 2024.10
 
 #### 🥳 My Project building:
 
