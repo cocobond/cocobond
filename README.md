@@ -6,13 +6,13 @@
 **Computer science College junior student.**
 --- 
 #### 📑 Internship
-- FW  - From 2025.03 to now 💪
+- <div align="left"><img align="center" src="https://avatars.githubusercontent.com/u/102591873?s=200&v=4" height="20px" /> SelectDB - From 2025.04 to 2025.07 
 - <div align="left"><img align="center" src="static/baidu-logo-Photoroom.png" height="20px" /> Baidu  ---ACG  From 2024.10 to 2025.03
 - <div align="left"><img align="center" src="static/yonyou-logo-Photoroom.png" height="20px" /> YonYou  ---South China Development Group  From 2024.08 to 2024.10
 
 #### 🥳 My Project building:
 
-- **Spreading cloud** - GPT Feature.
+- **Somersault Clouds** - GPT Feature.
 
 - **EasyProxy** - NAT e2e.
 
