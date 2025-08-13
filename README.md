@@ -12,15 +12,15 @@
 
 #### 🥳 My Project building:
 
-- **Somersault Clouds** - GPT Feature.
+- **Somersault Clouds** - AI project.
 
 - **EasyProxy** - NAT e2e.
 
 - **blog** - some notes & more about me 
   - [XuYusong's Personal Site](https://xuyusong.xyz/)
-  - [XuYusong's CSDN](https://blog.csdn.net/2201_75299492)(**4.5k+ Followers**)
+  - [XuYusong's CSDN](https://blog.csdn.net/2201_75299492)(**5.8k+ Followers**)
 
-- FOSS - Try hard Doing 💪
+- FOSS - 💪
 
 ![](https://github-readme-stats.vercel.app/api?username=cocobond)
 <picture>
