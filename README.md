@@ -2,7 +2,7 @@
 > The best way to reach out to me is by email: a1750859115@outlook.com
 ---
 ### 👨🏻‍💻  About Me:
-**Focus on yourself. 🎯 ** <br>
+**Focus on yourself. 🎯** <br>
 **2026 soon-to-graduate student.**
 --- 
 #### 📑 Internship:
